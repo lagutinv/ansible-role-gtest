@@ -1,0 +1,14 @@
+# file: ansible-role-gtest/defaults/main.yml
+
+galaxy_info:
+  author: vl
+  company: vl
+  description: Install GTest
+  min_ansible_version: 3.4.0
+  license: MIT
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+#  categories:
+#  - system
